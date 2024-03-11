@@ -8,3 +8,4 @@ dataset
 submission
 checkpoints
 best_models
+__pycache__
